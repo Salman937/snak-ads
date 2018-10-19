@@ -1,0 +1,232 @@
+
+/* Navbar css starts*/
+
+.nav-white
+{
+	background-color: white !important;
+	height: 5em;
+}
+.navbar-nav li
+{
+	font-size: 0.9em;
+	margin-top: 1em;
+}
+
+/* Navbar css Ends*/
+
+
+/* Leveraging Technology section css Starts */
+
+.leveraging-technology
+{
+	background-color: #000000;
+	color: white;
+	margin-top: -1.5em;
+	height: 500px;
+	width: 100%;
+}
+.new-company
+{
+	margin-top: 25em;
+}
+.global-reach
+{
+	margin-top: 10em;
+}
+.global-reach .line-height
+{
+	line-height: 20px;
+}
+.global-reach h2
+{
+	margin-left: 1.8em;
+}
+.global-reach button
+{
+	background-color: transparent;
+	color: white;
+	border-radius: 10px;
+	border-color: #27a9e0;
+	margin: 2.5em 0px 0px 15em;
+}
+
+/* Leveraging Technology section css Ends */
+
+
+/* Share Wall Placement section css Starts */
+
+.wall-placement
+{
+	background-color: white;
+	margin-top: -1.5em;
+	height: 450px;
+	width: 100%;
+}
+
+
+/* Share Wall Placement section css Ends */
+
+
+/* Share Wall Placement section css Starts */
+
+.mobile-rewards
+{
+	margin-top: -1.5em;
+	height: 750px;
+	width: 100%;
+	color: white;
+	background-image: url(../images/bg.png);
+	background-repeat: no-repeat;
+	background-size: 100% 750px;
+}
+
+.solution h4
+{
+	padding-top: 2em;
+}
+
+
+/* Share Wall Placement section css Ends */
+
+
+/* Advertiser section css Starts */
+
+.advertiser
+{
+	background-color: #27a9e0;
+	margin-top: -1.5em;
+	height: 300px;
+	width: 100%;
+	color: white;
+}
+.global-app
+{
+	margin-top: 2em;
+}
+
+/* Advertiser section css Ends */
+
+
+/* User Acquisition section css Starts */
+
+.user-acquisition
+{
+	background-color: grey;
+	margin-top: -1.5em;
+	height: 500px;
+	width: 100%;
+	color: white;
+	background-image: url(../images/image2.png);
+	background-repeat: no-repeat;
+	background-size: 100% 500px;
+}
+.precision-marketing
+{
+	margin-top: 3em;
+	margin-left: 4em;
+}
+.precision-marketing h5
+{
+	padding-top: 3em;
+}
+
+/* User Acquisition section css Ends */
+
+
+/* Visitors section css Starts */
+
+.visitors
+{
+	background-color: #27a9e0;
+	margin-top: -1.5em;
+	height: 200px;
+	width: 100%;
+	color: white;
+}
+
+/* Visitors section css Ends */
+
+/* Contact us section css Starts */
+
+.contact-us
+{
+	background-color: grey;
+	margin-top: -1.5em;
+	height: 650px;
+	width: 100%;
+	color: white;
+	background-image: url(../images/contactus.png);
+	background-repeat: no-repeat;
+	background-size: 100% 650px;
+}
+
+.contact
+{
+	width: 100%;
+	height: 550px;
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.12), 5px 5px 5px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.contact:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.form-box
+{
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 400px;
+  margin: 1rem;
+  position: relative;
+  width: 100%;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.12), 5px 5px 5px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.form-box form
+{
+	width: 90%;
+	padding-left: 3em;
+
+}
+
+.form-box:hover {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+/* Contact us section css Ends */
+
+.login-form form
+{
+	width: 60%;
+}
+.signup-form form
+{
+	width : 60%;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus,
+ .navbar-default .navbar-nav>.active>a:hover
+{
+	color: #27a9e0 !important;
+	text-decoration: underline;
+	background-color: white !important;
+}
+
+.btn-info
+{
+	background-color: #27a9e0;
+	border: #27a9e0;
+}
+
+footer
+{
+	width: 100%;
+	height: 150px;
+}

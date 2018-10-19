@@ -1,0 +1,240 @@
+@media only screen and (max-width : 1200px) 
+{
+    .new-company img
+    {
+        width: 80%;
+    }
+    .wall-placement h1
+    {
+        font-size: 30px;
+    }
+    .wall-placement h3
+    {
+        font-size: 20px;
+    }
+    .wall-placement .desktop-img
+    {
+        margin:3em 0px 0px 3em;
+    }
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) 
+{
+    .global-reach h2
+    {
+        font-size: 20px;
+    }
+    .global-reach h1
+    {
+        font-size: 20px;
+        padding-left: 1.5em;
+    }
+    .global-reach button
+    {
+        margin: 2em 0px 0px 8em;
+    }
+    .wall-placement h1
+    {
+        font-size: 25px;
+    }
+    .wall-placement h3
+    {
+        font-size: 15px;
+    }
+    .wall-placement .desktop-img
+    {
+        margin:3em 0px 0px 3em;
+        width: 110%;
+    }
+    .mobile-rewards .mobile-img
+    {
+        width: 130%;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) 
+{
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form
+    {
+        margin-top: 1.3em;
+        background-color: white;
+        z-index: 10000 !important;
+    }
+    .new-company
+    {
+        margin: 4em 0px 0px 0px;
+        text-align: center;
+    }
+
+    .new-company img
+    {
+        margin-left: 9em;
+    }
+    .global-reach h2
+    {
+        text-align: center;
+    }
+    .global-reach h1
+    {
+        text-align: center;
+    }
+    .global-reach button
+    {
+        margin: 2em 0px 0px 45%;
+    }
+    .wall-placement
+    {
+        height: 950px;
+    }
+    .wall-placement .desktop-img
+    {
+        margin:3em 0px 0px 10em;
+        width: 60%;
+    }
+    .wall-placement h1
+    {
+        text-align: center;
+    }
+    .wall-placement h3
+    {
+        text-align: center;
+    }
+    .mobile-rewards
+    {
+        height: 1500px;
+        background-size: 100% 1500px;
+    }  
+    .mobile-rewards h4
+    {
+        text-align: center;
+    }    
+    .mobile-rewards .mobile-img
+    {
+        width: 50%;
+        margin:4em 5em 0em 10em;
+    }
+    .res-design h4
+    {
+        margin-left: -8em;
+    }
+    .res-design p
+    {
+        margin-left: -5em;
+        text-align: center;
+    }
+    .user-acquisition
+    {
+        height: 1250px;
+        background-size: 100% 1500px;
+    }
+    .user-acquisition h4
+    {
+        text-align: center;
+        margin-top: 3em;
+
+    }
+    .user-acquisition h5
+    {
+        text-align: center;
+    }
+    .user-acquisition .precision-marketing
+    {
+        margin: 0px;
+    }
+    .visitors
+    {
+        height: 450px;
+    }
+    .visitors h2
+    {
+        text-align: center;
+    }
+    .visitors h1
+    {
+        text-align: center;
+    }
+    .visitors h5
+    {
+        text-align: center;
+    }
+    .publishers .row
+    {
+        margin-right: 4em;
+    }
+    .contact-us
+    {
+        height: 850px;
+        background-size: 100% 850px;
+    }
+    .form-box
+    {
+        width: 90%;
+        /*height: 400px;*/
+    }
+    .contact
+    {
+        height: 750px;
+    }
+    .new_icons
+    {
+        margin-top: -6em;
+    }
+    .follow-us
+    {
+        margin-top: -2em;
+        text-align: center;
+    }
+}
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) 
+{
+	.global-reach button
+    {
+        margin: 2em 0px 0px 10em;
+    }
+    .new-company img
+    {
+        margin-left: 5em;
+        width: 100%;
+    }
+    .wall-placement .desktop-img
+    {
+        margin:3em 0px 0px 5em;
+        width: 60%;
+    }
+    .wall-placement
+    {
+        height: 800px;
+    }
+    .mobile-rewards .mobile-img
+    {
+        width: 65%;
+        margin:4em 5em 0em 4em;
+    }
+    .mobile-rewards
+    {
+        height: 1600px;
+        background-size: 100% 1600px;
+    }
+
+    .label-sol
+    {
+        margin-left: 2em;
+        width: 80%;
+    }
+    .label-sol p
+    {
+        /*margin-right: -1.8em;*/
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) 
+{
+
+}
